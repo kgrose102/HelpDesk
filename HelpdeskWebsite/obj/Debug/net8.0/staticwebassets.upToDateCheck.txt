@@ -1,0 +1,17 @@
+wwwroot\call.html
+wwwroot\css\main.css
+wwwroot\employee.html
+wwwroot\employeelookup.html
+wwwroot\home.html
+wwwroot\images\icon.png
+wwwroot\js\call.js
+wwwroot\js\employee.js
+wwwroot\js\employeelookup.js
+wwwroot\js\reportgeneration.js
+wwwroot\lib\css\bootstrap.min.css
+wwwroot\lib\js\bootstrap.min.js
+wwwroot\lib\js\jquery.min.js
+wwwroot\lib\js\jquery.validate.min.js
+wwwroot\pdfs\callreport.pdf
+wwwroot\pdfs\employeereport.pdf
+wwwroot\report.html

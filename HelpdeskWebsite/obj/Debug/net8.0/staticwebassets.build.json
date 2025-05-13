@@ -1,0 +1,1785 @@
+{
+  "Version": 1,
+  "Hash": "F1hQiib2K2ra+I5ThEFxOovFzRROAFX/nKY/IL2V1dU=",
+  "Source": "HelpdeskWebsite",
+  "BasePath": "_content/HelpdeskWebsite",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Github uploads\\Casestudy\\HelpdeskDAL\\HelpdeskDAL.csproj",
+      "Version": 2,
+      "Source": "HelpdeskDAL",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HelpdeskWebsite\\wwwroot",
+      "Source": "HelpdeskWebsite",
+      "ContentRoot": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\",
+      "BasePath": "_content/HelpdeskWebsite",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\call.html",
+      "SourceId": "HelpdeskWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\",
+      "BasePath": "_content/HelpdeskWebsite",
+      "RelativePath": "call#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v9oekq9y48",
+      "Integrity": "nUEAzZjvm3XmznuTAy9yoXKmEBowr8anNMc8tIUZw9k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\call.html"
+    },
+    {
+      "Identity": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\css\\main.css",
+      "SourceId": "HelpdeskWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\",
+      "BasePath": "_content/HelpdeskWebsite",
+      "RelativePath": "css/main#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m04sdkr15a",
+      "Integrity": "qg+4bc/ILYelo41re7c3mdIbxHZFFghAyod/DhFfTgw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\main.css"
+    },
+    {
+      "Identity": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\employee.html",
+      "SourceId": "HelpdeskWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\",
+      "BasePath": "_content/HelpdeskWebsite",
+      "RelativePath": "employee#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o4y3vbgcn1",
+      "Integrity": "eKWW1kmcBYaOzo95qUdVfFYTQ0ubYwM3EAxkURf8G9k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\employee.html"
+    },
+    {
+      "Identity": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\employeelookup.html",
+      "SourceId": "HelpdeskWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\",
+      "BasePath": "_content/HelpdeskWebsite",
+      "RelativePath": "employeelookup#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b022hcitp9",
+      "Integrity": "VchBbczMFrfiriKacn5bQ741UV2CBKtFq4+O0gw7XRM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\employeelookup.html"
+    },
+    {
+      "Identity": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\home.html",
+      "SourceId": "HelpdeskWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\",
+      "BasePath": "_content/HelpdeskWebsite",
+      "RelativePath": "home#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tfjn7inf14",
+      "Integrity": "KeFUDqcYmucWN73/sqshCoObf5rJZfBWF/ZIGvumqTU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\home.html"
+    },
+    {
+      "Identity": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\images\\icon.png",
+      "SourceId": "HelpdeskWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\",
+      "BasePath": "_content/HelpdeskWebsite",
+      "RelativePath": "images/icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "05j5zcap97",
+      "Integrity": "3HxrWeMUx6qKg7+T8Ufb3e1F5Fla2v3rw8u3dHNt/N8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icon.png"
+    },
+    {
+      "Identity": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\js\\call.js",
+      "SourceId": "HelpdeskWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\",
+      "BasePath": "_content/HelpdeskWebsite",
+      "RelativePath": "js/call#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0tc4nlpiad",
+      "Integrity": "1BQXoEJwwQl+ox/wM2/kFCc/jbrVwm4nBUZZH04XeMI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\call.js"
+    },
+    {
+      "Identity": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\js\\employee.js",
+      "SourceId": "HelpdeskWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\",
+      "BasePath": "_content/HelpdeskWebsite",
+      "RelativePath": "js/employee#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2rcalh6j1r",
+      "Integrity": "DpgcDpQEOm5T312VrOXFUcvJu6bojgVuodp0OJnCkPA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\employee.js"
+    },
+    {
+      "Identity": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\js\\employeelookup.js",
+      "SourceId": "HelpdeskWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\",
+      "BasePath": "_content/HelpdeskWebsite",
+      "RelativePath": "js/employeelookup#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "epoy60cq5m",
+      "Integrity": "krd2Q5pmsjpP226uKqE13dPifOvMeSkV0iqGNJtS0ys=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\employeelookup.js"
+    },
+    {
+      "Identity": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\js\\reportgeneration.js",
+      "SourceId": "HelpdeskWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\",
+      "BasePath": "_content/HelpdeskWebsite",
+      "RelativePath": "js/reportgeneration#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bu86v9layu",
+      "Integrity": "Q4WDcVo7cGF/64LEouwI32vn5IPUEPbpCeYnV3h6K7k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\reportgeneration.js"
+    },
+    {
+      "Identity": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\lib\\css\\bootstrap.min.css",
+      "SourceId": "HelpdeskWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\",
+      "BasePath": "_content/HelpdeskWebsite",
+      "RelativePath": "lib/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pyxc02v3q0",
+      "Integrity": "D9G5zsyDfmGB3MNu1cydSaiA9yUjR6KStL8FP7wZZrY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\lib\\js\\bootstrap.min.js",
+      "SourceId": "HelpdeskWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\",
+      "BasePath": "_content/HelpdeskWebsite",
+      "RelativePath": "lib/js/bootstrap.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cgnkm5grl2",
+      "Integrity": "RIIp+d6RhFDpPAxTdGO/skjFbNZM0Axu+v3uBxhe1sI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\lib\\js\\jquery.min.js",
+      "SourceId": "HelpdeskWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\",
+      "BasePath": "_content/HelpdeskWebsite",
+      "RelativePath": "lib/js/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "76neu9lsie",
+      "Integrity": "z15QsayWLsEN+6RCT9NaXePqKDYxYPP1k55+d0HDrpU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\js\\jquery.min.js"
+    },
+    {
+      "Identity": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\lib\\js\\jquery.validate.min.js",
+      "SourceId": "HelpdeskWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\",
+      "BasePath": "_content/HelpdeskWebsite",
+      "RelativePath": "lib/js/jquery.validate.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b7iojwaux1",
+      "Integrity": "JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\js\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\pdfs\\callreport.pdf",
+      "SourceId": "HelpdeskWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\",
+      "BasePath": "_content/HelpdeskWebsite",
+      "RelativePath": "pdfs/callreport#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e9u65bguph",
+      "Integrity": "so/zNd47s188e9ODzZA6CWteEYzTXBsd8mhx20Znb0c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pdfs\\callreport.pdf"
+    },
+    {
+      "Identity": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\pdfs\\employeereport.pdf",
+      "SourceId": "HelpdeskWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\",
+      "BasePath": "_content/HelpdeskWebsite",
+      "RelativePath": "pdfs/employeereport#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zde3fgkf18",
+      "Integrity": "lxphjgp3s6wtxbKfRTBx6AQEw8HSHHd3cw/MoME78H4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pdfs\\employeereport.pdf"
+    },
+    {
+      "Identity": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\report.html",
+      "SourceId": "HelpdeskWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\",
+      "BasePath": "_content/HelpdeskWebsite",
+      "RelativePath": "report#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sv4j2utmcx",
+      "Integrity": "iJYBlw24ngvABP6PGDRfA8y2rxIStr8Z7VYekqHHMfE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\report.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "call.html",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\call.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nUEAzZjvm3XmznuTAy9yoXKmEBowr8anNMc8tIUZw9k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 01:23:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nUEAzZjvm3XmznuTAy9yoXKmEBowr8anNMc8tIUZw9k="
+        }
+      ]
+    },
+    {
+      "Route": "call.v9oekq9y48.html",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\call.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nUEAzZjvm3XmznuTAy9yoXKmEBowr8anNMc8tIUZw9k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 01:23:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v9oekq9y48"
+        },
+        {
+          "Name": "label",
+          "Value": "call.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nUEAzZjvm3XmznuTAy9yoXKmEBowr8anNMc8tIUZw9k="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.css",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\css\\main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qg+4bc/ILYelo41re7c3mdIbxHZFFghAyod/DhFfTgw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 00:27:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qg+4bc/ILYelo41re7c3mdIbxHZFFghAyod/DhFfTgw="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.m04sdkr15a.css",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\css\\main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qg+4bc/ILYelo41re7c3mdIbxHZFFghAyod/DhFfTgw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 00:27:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m04sdkr15a"
+        },
+        {
+          "Name": "label",
+          "Value": "css/main.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qg+4bc/ILYelo41re7c3mdIbxHZFFghAyod/DhFfTgw="
+        }
+      ]
+    },
+    {
+      "Route": "employee.html",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\employee.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8791"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKWW1kmcBYaOzo95qUdVfFYTQ0ubYwM3EAxkURf8G9k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 00:30:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKWW1kmcBYaOzo95qUdVfFYTQ0ubYwM3EAxkURf8G9k="
+        }
+      ]
+    },
+    {
+      "Route": "employee.o4y3vbgcn1.html",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\employee.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8791"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKWW1kmcBYaOzo95qUdVfFYTQ0ubYwM3EAxkURf8G9k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 00:30:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o4y3vbgcn1"
+        },
+        {
+          "Name": "label",
+          "Value": "employee.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKWW1kmcBYaOzo95qUdVfFYTQ0ubYwM3EAxkURf8G9k="
+        }
+      ]
+    },
+    {
+      "Route": "employeelookup.b022hcitp9.html",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\employeelookup.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VchBbczMFrfiriKacn5bQ741UV2CBKtFq4+O0gw7XRM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Oct 2024 07:45:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b022hcitp9"
+        },
+        {
+          "Name": "label",
+          "Value": "employeelookup.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VchBbczMFrfiriKacn5bQ741UV2CBKtFq4+O0gw7XRM="
+        }
+      ]
+    },
+    {
+      "Route": "employeelookup.html",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\employeelookup.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VchBbczMFrfiriKacn5bQ741UV2CBKtFq4+O0gw7XRM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Oct 2024 07:45:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VchBbczMFrfiriKacn5bQ741UV2CBKtFq4+O0gw7XRM="
+        }
+      ]
+    },
+    {
+      "Route": "home.html",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2449"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KeFUDqcYmucWN73/sqshCoObf5rJZfBWF/ZIGvumqTU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 00:12:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KeFUDqcYmucWN73/sqshCoObf5rJZfBWF/ZIGvumqTU="
+        }
+      ]
+    },
+    {
+      "Route": "home.tfjn7inf14.html",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2449"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KeFUDqcYmucWN73/sqshCoObf5rJZfBWF/ZIGvumqTU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 00:12:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tfjn7inf14"
+        },
+        {
+          "Name": "label",
+          "Value": "home.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KeFUDqcYmucWN73/sqshCoObf5rJZfBWF/ZIGvumqTU="
+        }
+      ]
+    },
+    {
+      "Route": "images/icon.05j5zcap97.png",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\images\\icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27787"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3HxrWeMUx6qKg7+T8Ufb3e1F5Fla2v3rw8u3dHNt/N8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Oct 2024 05:14:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "05j5zcap97"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3HxrWeMUx6qKg7+T8Ufb3e1F5Fla2v3rw8u3dHNt/N8="
+        }
+      ]
+    },
+    {
+      "Route": "images/icon.png",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\images\\icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27787"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3HxrWeMUx6qKg7+T8Ufb3e1F5Fla2v3rw8u3dHNt/N8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Oct 2024 05:14:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3HxrWeMUx6qKg7+T8Ufb3e1F5Fla2v3rw8u3dHNt/N8="
+        }
+      ]
+    },
+    {
+      "Route": "js/call.0tc4nlpiad.js",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\js\\call.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1BQXoEJwwQl+ox/wM2/kFCc/jbrVwm4nBUZZH04XeMI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 01:49:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0tc4nlpiad"
+        },
+        {
+          "Name": "label",
+          "Value": "js/call.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1BQXoEJwwQl+ox/wM2/kFCc/jbrVwm4nBUZZH04XeMI="
+        }
+      ]
+    },
+    {
+      "Route": "js/call.js",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\js\\call.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1BQXoEJwwQl+ox/wM2/kFCc/jbrVwm4nBUZZH04XeMI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 01:49:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1BQXoEJwwQl+ox/wM2/kFCc/jbrVwm4nBUZZH04XeMI="
+        }
+      ]
+    },
+    {
+      "Route": "js/employee.2rcalh6j1r.js",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\js\\employee.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DpgcDpQEOm5T312VrOXFUcvJu6bojgVuodp0OJnCkPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 00:29:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2rcalh6j1r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/employee.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DpgcDpQEOm5T312VrOXFUcvJu6bojgVuodp0OJnCkPA="
+        }
+      ]
+    },
+    {
+      "Route": "js/employee.js",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\js\\employee.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DpgcDpQEOm5T312VrOXFUcvJu6bojgVuodp0OJnCkPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 00:29:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DpgcDpQEOm5T312VrOXFUcvJu6bojgVuodp0OJnCkPA="
+        }
+      ]
+    },
+    {
+      "Route": "js/employeelookup.epoy60cq5m.js",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\js\\employeelookup.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"krd2Q5pmsjpP226uKqE13dPifOvMeSkV0iqGNJtS0ys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Oct 2024 07:45:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "epoy60cq5m"
+        },
+        {
+          "Name": "label",
+          "Value": "js/employeelookup.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-krd2Q5pmsjpP226uKqE13dPifOvMeSkV0iqGNJtS0ys="
+        }
+      ]
+    },
+    {
+      "Route": "js/employeelookup.js",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\js\\employeelookup.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"krd2Q5pmsjpP226uKqE13dPifOvMeSkV0iqGNJtS0ys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Oct 2024 07:45:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-krd2Q5pmsjpP226uKqE13dPifOvMeSkV0iqGNJtS0ys="
+        }
+      ]
+    },
+    {
+      "Route": "js/reportgeneration.bu86v9layu.js",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\js\\reportgeneration.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1791"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q4WDcVo7cGF/64LEouwI32vn5IPUEPbpCeYnV3h6K7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 00:25:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bu86v9layu"
+        },
+        {
+          "Name": "label",
+          "Value": "js/reportgeneration.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q4WDcVo7cGF/64LEouwI32vn5IPUEPbpCeYnV3h6K7k="
+        }
+      ]
+    },
+    {
+      "Route": "js/reportgeneration.js",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\js\\reportgeneration.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1791"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q4WDcVo7cGF/64LEouwI32vn5IPUEPbpCeYnV3h6K7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 00:25:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q4WDcVo7cGF/64LEouwI32vn5IPUEPbpCeYnV3h6K7k="
+        }
+      ]
+    },
+    {
+      "Route": "lib/css/bootstrap.min.css",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\lib\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194908"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D9G5zsyDfmGB3MNu1cydSaiA9yUjR6KStL8FP7wZZrY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Oct 2024 04:53:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D9G5zsyDfmGB3MNu1cydSaiA9yUjR6KStL8FP7wZZrY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/css/bootstrap.min.pyxc02v3q0.css",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\lib\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194908"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D9G5zsyDfmGB3MNu1cydSaiA9yUjR6KStL8FP7wZZrY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Oct 2024 04:53:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pyxc02v3q0"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D9G5zsyDfmGB3MNu1cydSaiA9yUjR6KStL8FP7wZZrY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/js/bootstrap.min.cgnkm5grl2.js",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\lib\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RIIp+d6RhFDpPAxTdGO/skjFbNZM0Axu+v3uBxhe1sI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Sep 2024 20:52:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cgnkm5grl2"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RIIp+d6RhFDpPAxTdGO/skjFbNZM0Axu+v3uBxhe1sI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/js/bootstrap.min.js",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\lib\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RIIp+d6RhFDpPAxTdGO/skjFbNZM0Axu+v3uBxhe1sI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Sep 2024 20:52:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RIIp+d6RhFDpPAxTdGO/skjFbNZM0Axu+v3uBxhe1sI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/js/jquery.min.76neu9lsie.js",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\lib\\js\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89795"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z15QsayWLsEN+6RCT9NaXePqKDYxYPP1k55+d0HDrpU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Sep 2024 20:52:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "76neu9lsie"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/js/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z15QsayWLsEN+6RCT9NaXePqKDYxYPP1k55+d0HDrpU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/js/jquery.min.js",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\lib\\js\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89795"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z15QsayWLsEN+6RCT9NaXePqKDYxYPP1k55+d0HDrpU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Sep 2024 20:52:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z15QsayWLsEN+6RCT9NaXePqKDYxYPP1k55+d0HDrpU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/js/jquery.validate.min.b7iojwaux1.js",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\lib\\js\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24601"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Sep 2024 20:52:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b7iojwaux1"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/js/jquery.validate.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/js/jquery.validate.min.js",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\lib\\js\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24601"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Sep 2024 20:52:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA="
+        }
+      ]
+    },
+    {
+      "Route": "pdfs/callreport.e9u65bguph.pdf",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\pdfs\\callreport.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25629"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"so/zNd47s188e9ODzZA6CWteEYzTXBsd8mhx20Znb0c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 00:25:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e9u65bguph"
+        },
+        {
+          "Name": "label",
+          "Value": "pdfs/callreport.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-so/zNd47s188e9ODzZA6CWteEYzTXBsd8mhx20Znb0c="
+        }
+      ]
+    },
+    {
+      "Route": "pdfs/callreport.pdf",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\pdfs\\callreport.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25629"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"so/zNd47s188e9ODzZA6CWteEYzTXBsd8mhx20Znb0c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 00:25:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-so/zNd47s188e9ODzZA6CWteEYzTXBsd8mhx20Znb0c="
+        }
+      ]
+    },
+    {
+      "Route": "pdfs/employeereport.pdf",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\pdfs\\employeereport.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lxphjgp3s6wtxbKfRTBx6AQEw8HSHHd3cw/MoME78H4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 00:27:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lxphjgp3s6wtxbKfRTBx6AQEw8HSHHd3cw/MoME78H4="
+        }
+      ]
+    },
+    {
+      "Route": "pdfs/employeereport.zde3fgkf18.pdf",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\pdfs\\employeereport.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lxphjgp3s6wtxbKfRTBx6AQEw8HSHHd3cw/MoME78H4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 00:27:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zde3fgkf18"
+        },
+        {
+          "Name": "label",
+          "Value": "pdfs/employeereport.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lxphjgp3s6wtxbKfRTBx6AQEw8HSHHd3cw/MoME78H4="
+        }
+      ]
+    },
+    {
+      "Route": "report.html",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\report.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iJYBlw24ngvABP6PGDRfA8y2rxIStr8Z7VYekqHHMfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 00:26:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iJYBlw24ngvABP6PGDRfA8y2rxIStr8Z7VYekqHHMfE="
+        }
+      ]
+    },
+    {
+      "Route": "report.sv4j2utmcx.html",
+      "AssetFile": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\report.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iJYBlw24ngvABP6PGDRfA8y2rxIStr8Z7VYekqHHMfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 00:26:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sv4j2utmcx"
+        },
+        {
+          "Name": "label",
+          "Value": "report.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iJYBlw24ngvABP6PGDRfA8y2rxIStr8Z7VYekqHHMfE="
+        }
+      ]
+    }
+  ]
+}

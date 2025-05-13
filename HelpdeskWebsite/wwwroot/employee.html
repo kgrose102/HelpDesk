@@ -1,0 +1,164 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Case #1 - Employees</title>
+    <meta charset="utf-8" />
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+    <link href="/lib/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/main.css" rel="stylesheet" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <nav class="navbar navbar-expand-md navbar-dark bg-info">
+        <a class="navbar-brand mx-3" href="/home.html">Help Desk</a>
+        <button class="navbar-toggler mx-3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarContent">
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/home.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" href="/employee.html">Employees</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link " href="/call.html">Call</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link " href="/report.html">Report</a>
+                </li>
+            </ul>
+            <form>
+                <input class="form-control" type="search" placeholder="Search" id="srch" aria-label="Search"
+                       style="width:10vw;margin-right:5vw;">
+            </form>
+        </div>
+    </nav>
+
+    <div class="mx-4 my-4" style="display:block; text-align:center;">
+        <img src="images/icon.png" height="100" style="margin-bottom: 10px; margin-top: 100px;" />
+        <h3>Help Desk</h3>
+        <p>v1.0</p>
+    </div>
+
+    <div class="justify-content-center align-items-center row mt-5 ml-1">
+        <div class="col-12 text-center p-3"><h2>Current Employees</h2></div>
+        <div class="list-group col-10 mb-1" id="employeeList" style="height:45vh;">
+        </div>
+    </div>
+    <!-- This <div> contains the modal markup -->
+    <form id="EmployeeModalForm" name="EmployeeModalForm" method="post" action="">
+        <div class="modal fade" id="theModal" data-bs-backdrop="static"
+             data-bs-keyboard="false" tabindex="-1" aria-labelledby="theModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h2 class="modal-title" id="theModalLabel">Employee List</h2>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="mx-2 my-2">
+                            <div class="card">
+                                <div class="card-header text-center">
+                                    Employee Add/Update
+                                </div>
+                                <div class="card-body">
+                                    <div class="row">
+                                        <div class="col-4">Title:</div>
+                                        <div class="col-8">
+                                            <input type="text"
+                                                   placeholder="enter title"
+                                                   id="TextBoxTitle"
+                                                   name="TextBoxTitle"
+                                                   class="form-control" />
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-4">First:</div>
+                                        <div class="col-8">
+                                            <input type="text"
+                                                   placeholder="enter first name"
+                                                   id="TextBoxFirst"
+                                                   name="TextBoxFirst"
+                                                   class="form-control" />
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-4">Surname:</div>
+                                        <div class="col-8">
+                                            <input type="text"
+                                                   placeholder="enter surname"
+                                                   id="TextBoxSurname"
+                                                   name="TextBoxSurname"
+                                                   class="form-control" />
+                                        </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-4">Phone:</div>
+                                        <div class="col-8">
+                                            <input type="text"
+                                                   placeholder="enter phoneno"
+                                                   id="TextBoxPhone"
+                                                   name="TextBoxPhone"
+                                                   class="form-control" />
+                                        </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-4">Email:</div>
+                                        <div class="col-8">
+                                            <input type="text"
+                                                   placeholder="enter email"
+                                                   id="TextBoxEmail"
+                                                   name="TextBoxEmail"
+                                                   class="form-control" />
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-4">Department:</div>
+                                        <div class="col-8"><select id="ddlDepartments" name="ddlDepartments" class="form-control"></select></div>
+                                    </div>
+
+                                    <div class="row mt-3">
+                                        <div class="col-4">Picture:</div>
+                                        <div class="col-8" id="imageHolder"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-footer text-center">
+                                <div class="row border m-2 p-2">
+                                    <label for="file">Choose Different Picture?</label>
+                                    <input type="file" id="uploader" class="text-center btn btn-outline-secondary" />
+                                    <div id="uploadstatus" class="text-left"></div>
+                                </div>
+
+                                <input type="button" value="Update" id="actionbutton" class="col-2 m-3 btn btn-info col-4" />
+
+                                <input type="button" value="Delete" id="deletebutton" class="col-4 m-2 btn btn-danger col-6" />
+                                <div class="alert alert-danger fade show" role="alert" id="dialog"
+                                     style="width:70%;margin:0 auto;">
+                                    <strong>Are you sure?</strong><p></p>
+                                    <input type="button" class="btn btn-outline-danger mt-3" value="yes" id="yesbutton" />
+                                    <input type="button" class="btn btn-info mt-3" value="No" id="nobutton" />
+                                </div>
+
+                            </div>
+                            <div id="modalstatus" class="text-center mt-3 mb-2"></div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </form>
+
+    <script src="/lib/js/jquery.min.js"></script>
+    <script src="lib/js/jquery.validate.min.js"></script>
+    <script src="/lib/js/bootstrap.min.js"></script>
+    <script src="/js/employee.js"></script>
+
+</body>
+</html>

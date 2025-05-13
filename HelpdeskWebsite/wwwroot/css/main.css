@@ -1,0 +1,74 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Cuprum:ital,wght@0,400..700;1,400..700&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.kanit-regular {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+body{
+    font-family: "Kanit";
+}
+
+body nav {
+    font-weight: 550;
+}
+
+body footer {
+    width: 100%;
+    background-color: #0d6efd66;
+    padding: 10px 10px 5px 10px;
+    color: white;
+    margin-top: 10px;
+}
+
+.active a {
+    color: red !important;
+}
+
+div.error {
+    color: #dc3545;
+    background-color: #FFDDBB63;
+    padding: .4em 1em;
+    font-size: 90%;
+    font-weight: 500;
+    line-height: 1.5;
+    left: 200px;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+    margin-bottom: 8px;
+    margin-top: 5px;
+}
+
+.row {
+    margin-bottom: 7px;
+}
+
+#modalstatus{
+    display: block;
+    align-content: center;
+}
+
+#callReportButton{
+    background-color: lightblue;
+    border: none;
+    color:white;
+    padding: 10px;
+    font-size: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+#employeeReportButton {
+    background-color: lightblue;
+    border: none;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+#lblstatus{
+    margin-top: 20px;
+}

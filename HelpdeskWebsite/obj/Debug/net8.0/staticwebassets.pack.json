@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\call.html",
+      "PackagePath": "staticwebassets\\call.html"
+    },
+    {
+      "Id": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\employee.html",
+      "PackagePath": "staticwebassets\\employee.html"
+    },
+    {
+      "Id": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\employeelookup.html",
+      "PackagePath": "staticwebassets\\employeelookup.html"
+    },
+    {
+      "Id": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\home.html",
+      "PackagePath": "staticwebassets\\home.html"
+    },
+    {
+      "Id": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\images\\icon.png",
+      "PackagePath": "staticwebassets\\images\\icon.png"
+    },
+    {
+      "Id": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\js\\call.js",
+      "PackagePath": "staticwebassets\\js\\call.js"
+    },
+    {
+      "Id": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\js\\employee.js",
+      "PackagePath": "staticwebassets\\js\\employee.js"
+    },
+    {
+      "Id": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\js\\employeelookup.js",
+      "PackagePath": "staticwebassets\\js\\employeelookup.js"
+    },
+    {
+      "Id": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\js\\reportgeneration.js",
+      "PackagePath": "staticwebassets\\js\\reportgeneration.js"
+    },
+    {
+      "Id": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\lib\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\lib\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\lib\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\lib\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\pdfs\\callreport.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\callreport.pdf"
+    },
+    {
+      "Id": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\pdfs\\employeereport.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\employeereport.pdf"
+    },
+    {
+      "Id": "D:\\Github uploads\\Casestudy\\HelpdeskWebsite\\wwwroot\\report.html",
+      "PackagePath": "staticwebassets\\report.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HelpdeskWebsite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HelpdeskWebsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HelpdeskWebsite.props",
+      "PackagePath": "build\\HelpdeskWebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HelpdeskWebsite.props",
+      "PackagePath": "buildMultiTargeting\\HelpdeskWebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HelpdeskWebsite.props",
+      "PackagePath": "buildTransitive\\HelpdeskWebsite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,42 @@
+C:\Users\kgros\source\repos\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\HelpdeskDAL.deps.json
+C:\Users\kgros\source\repos\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\HelpdeskDAL.runtimeconfig.json
+C:\Users\kgros\source\repos\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kgros\source\repos\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\appsettings.json
+C:\Users\kgros\source\repos\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\HelpdeskDAL.exe
+C:\Users\kgros\source\repos\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\HelpdeskViewModels.deps.json
+C:\Users\kgros\source\repos\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\HelpdeskViewModels.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\HelpdeskViewModels.pdb
+C:\Users\kgros\source\repos\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\HelpdeskDAL.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\HelpdeskDAL.pdb
+C:\Users\kgros\source\repos\Casestudy\HelpdeskViewModels\obj\Debug\net8.0\HelpdeskViewModels.csproj.AssemblyReference.cache
+C:\Users\kgros\source\repos\Casestudy\HelpdeskViewModels\obj\Debug\net8.0\HelpdeskViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgros\source\repos\Casestudy\HelpdeskViewModels\obj\Debug\net8.0\HelpdeskViewModels.AssemblyInfoInputs.cache
+C:\Users\kgros\source\repos\Casestudy\HelpdeskViewModels\obj\Debug\net8.0\HelpdeskViewModels.AssemblyInfo.cs
+C:\Users\kgros\source\repos\Casestudy\HelpdeskViewModels\obj\Debug\net8.0\HelpdeskViewModels.csproj.CoreCompileInputs.cache
+C:\Users\kgros\source\repos\Casestudy\HelpdeskViewModels\obj\Debug\net8.0\Helpdesk.B4929E60.Up2Date
+C:\Users\kgros\source\repos\Casestudy\HelpdeskViewModels\obj\Debug\net8.0\HelpdeskViewModels.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskViewModels\obj\Debug\net8.0\refint\HelpdeskViewModels.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskViewModels\obj\Debug\net8.0\HelpdeskViewModels.pdb
+C:\Users\kgros\source\repos\Casestudy\HelpdeskViewModels\obj\Debug\net8.0\ref\HelpdeskViewModels.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\HelpdeskDAL.staticwebassets.endpoints.json
+D:\Github uploads\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\appsettings.Development.json
+D:\Github uploads\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\appsettings.json
+D:\Github uploads\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\HelpdeskDAL.deps.json
+D:\Github uploads\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\HelpdeskDAL.runtimeconfig.json
+D:\Github uploads\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\HelpdeskDAL.staticwebassets.endpoints.json
+D:\Github uploads\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\HelpdeskDAL.exe
+D:\Github uploads\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\HelpdeskViewModels.deps.json
+D:\Github uploads\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\HelpdeskViewModels.dll
+D:\Github uploads\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\HelpdeskViewModels.pdb
+D:\Github uploads\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\HelpdeskDAL.dll
+D:\Github uploads\Casestudy\HelpdeskViewModels\bin\Debug\net8.0\HelpdeskDAL.pdb
+D:\Github uploads\Casestudy\HelpdeskViewModels\obj\Debug\net8.0\HelpdeskViewModels.csproj.AssemblyReference.cache
+D:\Github uploads\Casestudy\HelpdeskViewModels\obj\Debug\net8.0\HelpdeskViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github uploads\Casestudy\HelpdeskViewModels\obj\Debug\net8.0\HelpdeskViewModels.AssemblyInfoInputs.cache
+D:\Github uploads\Casestudy\HelpdeskViewModels\obj\Debug\net8.0\HelpdeskViewModels.AssemblyInfo.cs
+D:\Github uploads\Casestudy\HelpdeskViewModels\obj\Debug\net8.0\HelpdeskViewModels.csproj.CoreCompileInputs.cache
+D:\Github uploads\Casestudy\HelpdeskViewModels\obj\Debug\net8.0\Helpdesk.B4929E60.Up2Date
+D:\Github uploads\Casestudy\HelpdeskViewModels\obj\Debug\net8.0\HelpdeskViewModels.dll
+D:\Github uploads\Casestudy\HelpdeskViewModels\obj\Debug\net8.0\refint\HelpdeskViewModels.dll
+D:\Github uploads\Casestudy\HelpdeskViewModels\obj\Debug\net8.0\HelpdeskViewModels.pdb
+D:\Github uploads\Casestudy\HelpdeskViewModels\obj\Debug\net8.0\ref\HelpdeskViewModels.dll

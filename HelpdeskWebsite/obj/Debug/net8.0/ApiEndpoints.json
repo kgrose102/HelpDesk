@@ -1,0 +1,158 @@
+[
+  {
+    "ContainingType": "HelpdeskWebsite.Controllers.CallController",
+    "Method": "GetAll",
+    "RelativePath": "api/Call",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HelpdeskWebsite.Controllers.CallController",
+    "Method": "Put",
+    "RelativePath": "api/Call",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "viewmodel",
+        "Type": "HelpdeskViewModels.CallViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HelpdeskWebsite.Controllers.CallController",
+    "Method": "Post",
+    "RelativePath": "api/Call",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "viewmodel",
+        "Type": "HelpdeskViewModels.CallViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExercisesWebsite.Controllers.ReportController",
+    "Method": "GetCallReport",
+    "RelativePath": "api/callreport",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HelpdeskWebsite.Controllers.DepartmentController",
+    "Method": "GetAll",
+    "RelativePath": "api/Department",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HelpdeskWebsite.Controllers.EmployeeController",
+    "Method": "Put",
+    "RelativePath": "api/employee",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "viewmodel",
+        "Type": "HelpdeskViewModels.EmployeeViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HelpdeskWebsite.Controllers.EmployeeController",
+    "Method": "GetAll",
+    "RelativePath": "api/employee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HelpdeskWebsite.Controllers.EmployeeController",
+    "Method": "Post",
+    "RelativePath": "api/employee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "viewmodel",
+        "Type": "HelpdeskViewModels.EmployeeViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HelpdeskWebsite.Controllers.EmployeeController",
+    "Method": "GetByEmail",
+    "RelativePath": "api/employee/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HelpdeskWebsite.Controllers.EmployeeController",
+    "Method": "Delete",
+    "RelativePath": "api/employee/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExercisesWebsite.Controllers.ReportController",
+    "Method": "GetEmployeeReport",
+    "RelativePath": "api/employeereport",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HelpdeskWebsite.Controllers.ProblemController",
+    "Method": "GetAll",
+    "RelativePath": "api/Problem",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

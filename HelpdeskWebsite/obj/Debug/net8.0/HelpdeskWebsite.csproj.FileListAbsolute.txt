@@ -1,0 +1,198 @@
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskDAL.deps.json
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskDAL.runtimeconfig.json
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskDAL.exe
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\appsettings.json
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskWebsite.staticwebassets.runtime.json
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskWebsite.exe
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskWebsite.deps.json
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskWebsite.runtimeconfig.json
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskWebsite.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskWebsite.pdb
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskDAL.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskViewModels.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskViewModels.pdb
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskDAL.pdb
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\HelpdeskWebsite.csproj.AssemblyReference.cache
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\HelpdeskWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\HelpdeskWebsite.AssemblyInfoInputs.cache
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\HelpdeskWebsite.AssemblyInfo.cs
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\HelpdeskWebsite.csproj.CoreCompileInputs.cache
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\HelpdeskWebsite.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\HelpdeskWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\staticwebassets\msbuild.HelpdeskWebsite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\staticwebassets\msbuild.build.HelpdeskWebsite.props
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HelpdeskWebsite.props
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HelpdeskWebsite.props
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\scopedcss\bundle\HelpdeskWebsite.styles.css
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\Helpdesk.B4E00191.Up2Date
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\HelpdeskWebsite.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\refint\HelpdeskWebsite.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\HelpdeskWebsite.pdb
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\HelpdeskWebsite.genruntimeconfig.cache
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\ref\HelpdeskWebsite.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskDAL.staticwebassets.endpoints.json
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskWebsite.staticwebassets.endpoints.json
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\staticwebassets\msbuild.HelpdeskWebsite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\itext.forms.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\itext.io.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\itext.layout.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\itext.sign.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\itext.svg.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\itext.commons.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\kgros\source\repos\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\appsettings.Development.json
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\appsettings.json
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskWebsite.staticwebassets.endpoints.json
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskDAL.deps.json
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskDAL.runtimeconfig.json
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskDAL.staticwebassets.endpoints.json
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskDAL.exe
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskWebsite.staticwebassets.runtime.json
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskWebsite.exe
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskWebsite.deps.json
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskWebsite.runtimeconfig.json
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskWebsite.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskWebsite.pdb
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Azure.Core.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Azure.Identity.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Castle.Core.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\itext.barcodes.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\itext.forms.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\itext.io.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\itext.kernel.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\itext.layout.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\itext.pdfa.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\itext.sign.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\itext.styledxmlparser.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\itext.svg.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\itext.commons.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskDAL.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskViewModels.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskViewModels.pdb
+D:\Github uploads\Casestudy\HelpdeskWebsite\bin\Debug\net8.0\HelpdeskDAL.pdb
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\HelpdeskWebsite.csproj.AssemblyReference.cache
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\HelpdeskWebsite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\HelpdeskWebsite.AssemblyInfoInputs.cache
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\HelpdeskWebsite.AssemblyInfo.cs
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\HelpdeskWebsite.csproj.CoreCompileInputs.cache
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\HelpdeskWebsite.MvcApplicationPartsAssemblyInfo.cs
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\HelpdeskWebsite.MvcApplicationPartsAssemblyInfo.cache
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\scopedcss\bundle\HelpdeskWebsite.styles.css
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\staticwebassets.build.json
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\staticwebassets.development.json
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\staticwebassets\msbuild.HelpdeskWebsite.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\staticwebassets\msbuild.HelpdeskWebsite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\staticwebassets\msbuild.build.HelpdeskWebsite.props
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HelpdeskWebsite.props
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HelpdeskWebsite.props
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\Helpdesk.B4E00191.Up2Date
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\HelpdeskWebsite.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\refint\HelpdeskWebsite.dll
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\HelpdeskWebsite.pdb
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\HelpdeskWebsite.genruntimeconfig.cache
+D:\Github uploads\Casestudy\HelpdeskWebsite\obj\Debug\net8.0\ref\HelpdeskWebsite.dll
