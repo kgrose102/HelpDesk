@@ -2,8 +2,8 @@
 
 ![Computer monitor with a hand holding a wrench](/HelpdeskWebsite/wwwroot/images/icon.png)
 
-## Languages:
-### C#, ASAP.Net, .Net 8.0, SQL, JSON, HTML, CSS, BootStrap
+## Languages and Frameworks:
+### C#, ASAP.Net Core, .Net 8.0, SQL, JSON, HTML, CSS, BootStrap, JQuery. Entity Framework, LINQ
 
 ## About The project
 
@@ -17,6 +17,7 @@
 ### You will need to open the Visual Studio project.
 ### Ensure the required NuGet Packages are installed by right-clicking the solution in the solution explorer and selecting "Restore NuGet Packages"
 ### You will also need to create an SQL database called "HelpdeskDb" or update the database name in: HelpdeskDAL -> HelpdeskContext.cs utilizing the included "HelpDesk_Setup_SQL.sql" file for creating the database tables.
+### Lazy Loading is currently enabled to streamline the local dev access to the server.
 ### Ensure HelpdeskWebsite is set as the default start up project before running the project.
 
 ### © Kenneth Rose 2025
