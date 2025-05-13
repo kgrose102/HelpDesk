@@ -3,7 +3,7 @@
 ![Computer monitor with a hand holding a wrench](/HelpdeskWebsite/wwwroot/images/icon.png)
 
 ## Languages and Frameworks:
-### C#, ASAP.Net Core, .Net 8.0, SQL, JSON, HTML, CSS, BootStrap, JQuery. Entity Framework, LINQ
+### C#, ASAP.Net Core, .Net 8.0, SQL, JSON, HTML, CSS, BootStrap, JQuery, Entity Framework, LINQ
 
 ## About The project
 
