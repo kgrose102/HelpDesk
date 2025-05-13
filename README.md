@@ -1,6 +1,6 @@
 # HelpDesk Mock site
 
-![Computer monitor with a hand holding a wrench]/HelpdeskWebsite/wwwroot/images/icon.png
+![Computer monitor with a hand holding a wrench](/HelpdeskWebsite/wwwroot/images/icon.png)
 
 ## Languages:
 ### C#, ASAP.Net, .Net 8.0, SQL, JSON, HTML, CSS, BootStrap
